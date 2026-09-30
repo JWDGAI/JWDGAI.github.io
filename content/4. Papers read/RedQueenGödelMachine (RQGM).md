@@ -8,7 +8,7 @@ from: https://arxiv.org/pdf/2606.26294
 
 ## Technical notions
 ### Thomson sampling
-cf [[../1. Articles/Thomson sampling|Thomson sampling]]
+cf [[../2. Technical Posts/Thomson sampling|Thomson sampling]]
 
 ## Algos & Images
  
