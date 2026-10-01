@@ -1,0 +1,14 @@
+Let no man pray that he know not sorrow,  
+Let no soul ask to be free from pain,  
+For the gall of to-day is the sweet of to-morrow,  
+And the moment's loss is the lifetime's gain.  
+  
+Through want of a thing does its worth redouble,  
+Through hunger's pangs does the feast content,  
+And only the heart that has harbored trouble,  
+Can fully rejoice when joy is sent.  
+  
+Let no man shrink from the bitter tonics  
+Of grief, and yearning, and need, and strife,  
+For the rarest chords in the soul's harmonies,  
+Are found in the minor strains of life.
