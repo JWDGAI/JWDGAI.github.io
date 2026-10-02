@@ -163,6 +163,8 @@ plugins:
     layout:
       position: left
       priority: 50
+    options:
+      sort: date
   - source: "@quartz-community/graph"
     enabled: true
     layout:
