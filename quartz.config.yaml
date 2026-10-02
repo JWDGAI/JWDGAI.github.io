@@ -154,8 +154,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
-  - source: "@quartz-community/folder-page"
-    enabled: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
@@ -165,6 +163,7 @@ plugins:
       priority: 50
     options:
       sort: date
+      folderLink: false
   - source: "@quartz-community/graph"
     enabled: false
     layout:
