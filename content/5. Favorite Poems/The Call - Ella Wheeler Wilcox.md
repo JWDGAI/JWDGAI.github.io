@@ -10,4 +10,4 @@ And Joy turned back upon life's track,
 And smiled, and came my way,
 And sat her down to stay.
 
-                  
+![[The Call - Ella Wheeler Wilcox-1790898357007.jpeg]]

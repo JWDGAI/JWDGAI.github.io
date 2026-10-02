@@ -12,3 +12,6 @@ Let no man shrink from the bitter tonics
 Of grief, and yearning, and need, and strife,  
 For the rarest chords in the soul's harmonies,  
 Are found in the minor strains of life.
+
+![[Life's Harmonies - Ella Wheeler Wilcox-1790898158086.jpeg]]
+

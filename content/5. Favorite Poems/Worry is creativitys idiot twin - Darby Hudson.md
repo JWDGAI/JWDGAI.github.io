@@ -19,3 +19,5 @@ themselves, life took care of itself.
 It always has. And now I was alone with
 new music, perfect stupid and a blazing
 army of stars.
+
+![[Worry is creativitys idiot twin - Darby Hudson-1790898827551.jpeg]]

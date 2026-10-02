@@ -17,3 +17,5 @@ Tell me, what else should I have done?
 Doesn't everything die at last, and too soon?
 Tell me, what is it you plan to do
 with your one wild and precious life?
+
+![[The Summer Day - Mary Oliver-1790898553339.jpeg]]

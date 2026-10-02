@@ -9,3 +9,5 @@ The difference between the man who just cuts lawns and a real gardener is in the
 The lawn-cutter might just as well not have been there at all; the gardener will be there a lifetime.
 				
 				Adapted from Fahrenheit 451
+
+![[The gardener - Ray Bradbury-1790898442399.jpeg]]

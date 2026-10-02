@@ -23,3 +23,5 @@ And the little flower, above the ancient wall,
 Stared upward at the azure, boundless over all,
 At the mighty orb that poured its everlasting light.
 “And I, too, have my rays!” she whispered in delight.
+
+![[Unité - Victor Hugo-1790898790205.jpeg]]

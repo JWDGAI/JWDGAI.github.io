@@ -13,3 +13,5 @@ Like black leaves, its wings Like the stretching light of the river?
 And did you feel it, in your heart, how it pertained to everything?  
 And have you too finally figured out what beauty is for?  
 And have you changed your life?
+
+![[The Swan - Mary Oliver-1790898570774.jpeg]]

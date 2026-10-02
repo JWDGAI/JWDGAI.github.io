@@ -31,3 +31,5 @@ Those are the ones who live, O Lord! The rest I pity.
 For they are drunk on nothingness and vague despair;  
 For the heaviest burden is to exist without living.
 \[...]
+
+![[Ceux qui vivent, ce sont ceux qui luttent - Victor Hugo-1790895451448.jpeg]]

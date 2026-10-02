@@ -18,3 +18,4 @@ Beyond a wholesome discipline, be gentle with yourself. You are a child of the u
 
 And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
+![[Desiderata - Max Ehrmann-1790898933970.jpeg]]

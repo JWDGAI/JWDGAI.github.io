@@ -7,3 +7,5 @@ I think I know enough of hate
 To say that for destruction ice
 Is also great
 And would suffice.
+
+![[Fire and Ice - Robert Frost-1790895667824.jpeg]]

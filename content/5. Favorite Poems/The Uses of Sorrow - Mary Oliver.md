@@ -6,3 +6,4 @@ a box full of darkness._
 _It took me years to understand  
 that this, too, was a gift._
 
+![[The Uses of Sorrow - Mary Oliver-1790898673050.jpeg]]

@@ -41,3 +41,5 @@ And one of these days, perhaps, we’ll see
 That the world will be the better for me”;
 And do you not think that this simple plan
 Made him a wise and useful man?
+
+![[Little by Little - Anonymous-1790898074888.jpeg]]

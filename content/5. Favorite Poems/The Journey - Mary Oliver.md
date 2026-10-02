@@ -34,3 +34,5 @@ determined to do
 the only thing you could do --  
 determined to save  
 the only life that you could save.
+
+![[The Journey - Mary Oliver-1790898452431.jpeg]]
