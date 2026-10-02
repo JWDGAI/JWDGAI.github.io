@@ -1,11 +1,4 @@
 {
   "version": "1.0.0",
-  "plugins": {
-    "folder-page": {
-      "source": "github:quartz-community/folder-page",
-      "resolved": "https://github.com/quartz-community/folder-page.git",
-      "commit": "cb98119a788a0524d114345ee052670851e6f021",
-      "installedAt": "2026-09-30T14:14:50.036Z"
-    }
-  }
+  "plugins": {}
 }

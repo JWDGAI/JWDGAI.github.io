@@ -274,12 +274,6 @@ plugins:
       darkMode: auto
       exportPadding: 50
     order: 50
-  - source: github:quartz-community/folder-page
-    enabled: true
-    options:
-      showFolderCount: true
-      showSubfolders: true
-    order: 50
 layout:
   groups:
     toolbar:
