@@ -163,7 +163,8 @@ plugins:
       priority: 50
     options:
       sort: date
-      folderLink: false
+      folderClickBehavior: collapse  # Clicking a folder collapses/expands it instead of opening a page link
+      folderLink: false              # Disables creating page links for folders
   - source: "@quartz-community/graph"
     enabled: false
     layout:
