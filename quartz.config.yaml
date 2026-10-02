@@ -166,7 +166,7 @@ plugins:
     options:
       sort: date
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
