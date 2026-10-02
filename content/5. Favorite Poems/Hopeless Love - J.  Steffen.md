@@ -7,4 +7,4 @@ I shall fly to your arms like the wind from afar.
 And how will you know me when I have no form?
 — As the ocean the tempest, the forest the storm.
 
-![[Hopeless Love - J.  Steffen-1790895773923.jpeg]]
+![[Hopeless Love - J.  Steffen-1790895773923.jpeg|379]]

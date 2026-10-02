@@ -8,4 +8,4 @@ in its lovely voice:
 Excuse me,  
 I have work to do.
 
-![[I go down to the shore - Mary Oliver-1790898992697.jpeg]]
+![[I go down to the shore - Mary Oliver-1790898992697.jpeg|525]]
