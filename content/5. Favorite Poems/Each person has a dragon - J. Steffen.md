@@ -1,6 +1,3 @@
-
-## Each person has a dragon - J. Steffen
-
 Each person has a dragon in their mind
 Which weaves and twines within the subtle brain
 In shy seclusion, hiding from the pain
