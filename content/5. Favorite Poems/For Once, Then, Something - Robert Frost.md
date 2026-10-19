@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:57
+---
+
 Others taunt me with having knelt at well-curbs
 Always wrong to the light, so never seeing
 Deeper down in the well than where the water

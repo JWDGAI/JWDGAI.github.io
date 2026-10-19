@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:15
+---
+
 The world is full of promise
 When I am empty of threat
 When the world is empty of threat 

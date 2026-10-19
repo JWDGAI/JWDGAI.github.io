@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:42
+---
+
 Labour is blossoming or dancing where
 The body is not bruised to pleasure soul,
 Nor beauty born out of its own despair,

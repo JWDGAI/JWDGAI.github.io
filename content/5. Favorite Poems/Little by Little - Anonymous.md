@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:10
+---
+
 Little by little,” an acorn said,
 As it slowly sank in its mossy bed,
 “I am improving every day,

@@ -1,3 +1,7 @@
+---
+date: 2026-10-08T20:02
+---
+
 Compared to the vastness of outer space
 We're no more than a dot on a canvas
 A grain of sand in a stretch of desert.

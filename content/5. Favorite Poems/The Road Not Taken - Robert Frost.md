@@ -1,3 +1,6 @@
+---
+date: 2026-10-01T02:22
+---
 Two roads diverged in a yellow wood,  
 And sorry I could not travel both  
 And be one traveler, long I stood  

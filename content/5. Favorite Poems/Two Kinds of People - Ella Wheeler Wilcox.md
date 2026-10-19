@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:59
+---
+
 There are two kinds of people on earth to-day;
 Just two kinds of people, no more, I say.
 Not the sinner and saint, for it's well understood,

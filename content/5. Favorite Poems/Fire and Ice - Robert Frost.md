@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:21
+---
+
 Some say the world will end in fire,
 Some say in ice.
 From what I’ve tasted of desire

@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T01:59
+---
+
 I go down to the shore in the morning  
 and depending on the hour  
 the waves are rolling in or moving out,  

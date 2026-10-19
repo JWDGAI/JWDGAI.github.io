@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T01:55
+---
+
 _(In my sleep I dreamed this poem)_
 
 Someone I loved once gave me  

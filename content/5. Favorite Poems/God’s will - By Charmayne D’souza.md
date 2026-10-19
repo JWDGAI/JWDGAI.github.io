@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T17:00
+---
+
 A strange legacy that:
 One holocaust,
 Thirty-five wars,

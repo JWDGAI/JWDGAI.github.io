@@ -1,3 +1,7 @@
+---
+date: 2026-08-07T15:23
+---
+
 ## Link
 
 from: https://arxiv.org/pdf/2606.26294

@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:04
+---
+
 How shall I hold you, gone from me soon?
 I shall hold you to me as the cloud holds the moon.
 How shall I touch you when I am alone?

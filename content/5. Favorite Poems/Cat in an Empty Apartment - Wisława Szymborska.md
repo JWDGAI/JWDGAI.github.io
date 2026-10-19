@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:56
+---
+
 Die—you can’t do that to a cat.
 Since what can a cat do
 in an empty apartment?

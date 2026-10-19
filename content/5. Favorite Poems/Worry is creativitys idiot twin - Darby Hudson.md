@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:15
+---
+
 Worry is creativitys idiot twin
 They both make shit up from nothing.
 One gives you a panic attack, the other

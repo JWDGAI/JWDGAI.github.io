@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:51
+---
+
 There may be nothing wrong with you
 The way you live the work you do, 
 But I can surely plainly see

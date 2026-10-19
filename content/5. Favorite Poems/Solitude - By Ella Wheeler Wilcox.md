@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T17:11
+---
+
 Laugh, and the world laughs with you;
 Weep, and you weep alone;
 For the sad old earth must borrow its mirth,

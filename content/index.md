@@ -1,4 +1,5 @@
 ---
+date: 2026-08-06T17:17
 dateCreated: 2026-08-06-17:17
 title: Home
 ---

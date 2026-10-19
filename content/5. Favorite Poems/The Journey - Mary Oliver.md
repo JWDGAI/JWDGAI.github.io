@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T01:58
+---
+
 One day you finally knew  
 what you had to do, and began,  
 though the voices around you  

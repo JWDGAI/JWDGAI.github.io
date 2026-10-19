@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:00
+---
+
 Did you too see it, drifting, all night, on the black river?  
 Did you see it in the morning, rising into the silvery air –  
 An armful of white blossoms,  

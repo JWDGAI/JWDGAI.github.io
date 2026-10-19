@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:48
+---
+
 A pen--to register; a key-- 
 That winds through secret wards 
 Are well assigned to Memory 

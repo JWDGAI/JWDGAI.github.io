@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T17:10
+---
+
 It is easy enough to be pleasant,
 When life flows by like a song,
 But the man worth while is one who will smile,

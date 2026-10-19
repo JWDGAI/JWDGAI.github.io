@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:14
+---
+
 All wantonly in hours of joy,
 I made a song of pain.
 Soon Grief drew near, and paused to hear,

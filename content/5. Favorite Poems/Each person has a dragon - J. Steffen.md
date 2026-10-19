@@ -1,3 +1,7 @@
+---
+date: 2026-10-02T01:57
+---
+
 Each person has a dragon in their mind
 Which weaves and twines within the subtle brain
 In shy seclusion, hiding from the pain

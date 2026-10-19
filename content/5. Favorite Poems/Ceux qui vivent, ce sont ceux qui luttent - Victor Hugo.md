@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:27
+---
+
 Ceux qui vivent, ce sont ceux qui luttent ; ce sont
 Ceux dont un dessein ferme emplit l’âme et le front,
 Ceux qui d’un haut destin gravissent l’âpre cime,

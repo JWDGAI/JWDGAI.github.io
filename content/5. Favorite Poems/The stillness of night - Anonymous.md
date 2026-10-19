@@ -1,3 +1,6 @@
+---
+date: 2026-10-09T17:09
+---
 The stillness of night; is my most sacred time.
 No disturbance to steal my thoughts away.
 Quiet and surreal in shadowy light define;

@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T16:54
+dateCreated: <% tp.file.creation_date('YYYY-MM-DD-HH:mm') %>
+---
 All that is gold does not glitter,
 Not all those who wander are lost;
 The old that is strong does not wither,

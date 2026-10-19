@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T17:06
+---
+
 All wondering, and eager-eyed, within her portico
 I made my plea to Hostess Life, one morning long ago.
 

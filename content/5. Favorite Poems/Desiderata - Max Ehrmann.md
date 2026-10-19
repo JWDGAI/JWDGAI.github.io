@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:25
+---
+
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
 
 Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.

@@ -1,3 +1,7 @@
+---
+date: 2026-10-01T02:13
+---
+
 Everyone must leave something behind when he dies.
 A child, a book,  a house, a painting,
 A wall built, a pair of shoes made, a garden planted. 

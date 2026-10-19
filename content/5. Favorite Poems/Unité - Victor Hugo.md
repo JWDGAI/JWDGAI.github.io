@@ -1,3 +1,6 @@
+---
+date: 2026-10-01T02:16
+---
 Par-dessus l'horizon aux collines brunies,
 Le soleil, cette fleur des splendeurs infinies,
 Se penchait sur la terre à l'heure du couchant ;

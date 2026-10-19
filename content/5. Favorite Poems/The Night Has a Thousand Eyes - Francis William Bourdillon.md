@@ -1,3 +1,7 @@
+---
+date: 2026-10-09T17:04
+---
+
 The night has a thousand eyes,
 And the day but one;
 Yet the light of the bright world dies
