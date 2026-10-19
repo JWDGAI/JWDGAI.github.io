@@ -1,0 +1,10 @@
+Labour is blossoming or dancing where
+The body is not bruised to pleasure soul,
+Nor beauty born out of its own despair,
+Nor blear-eyed wisdom out of midnight oil.
+O chestnut tree, great rooted blossomer,
+Are you the leaf, the blossom or the bole?
+O body swayed to music, O brightening glance,
+How can we know the dancer from the dance?
+
+![[Among school Children VII - William B. Yeats-1790895410518.jpeg|571]]

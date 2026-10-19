@@ -1,4 +1,11 @@
 {
   "version": "1.0.0",
-  "plugins": {}
+  "plugins": {
+    "explorer": {
+      "source": "github:quartz-community/explorer",
+      "resolved": "https://github.com/quartz-community/explorer.git",
+      "commit": "bf8e93766283caab163fc11bc8b5904790a769bc",
+      "installedAt": "2026-10-19T15:36:51.925Z"
+    }
+  }
 }

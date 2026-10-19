@@ -156,15 +156,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
-  - source: "@quartz-community/explorer"
-    enabled: true
-    layout:
-      position: left
-      priority: 50
-    options:
-      sort: date
-      folderClickBehavior: collapse  # Clicking a folder collapses/expands it instead of opening a page link
-      folderLink: false              # Disables creating page links for folders
   - source: "@quartz-community/graph"
     enabled: false
     layout:
@@ -276,6 +267,16 @@ plugins:
       darkMode: auto
       exportPadding: 50
     order: 50
+  - source: github:quartz-community/explorer
+    enabled: true
+    options:
+      folderDefaultState: collapsed
+      folderClickBehavior: collapse
+      useSavedState: true
+    order: 50
+    layout:
+      position: left
+      priority: 50
 layout:
   groups:
     toolbar:

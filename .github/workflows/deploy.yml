@@ -26,6 +26,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Patch Quartz plugins
+        run: node patch-quartz.mjs
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
