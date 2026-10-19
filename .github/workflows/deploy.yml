@@ -24,12 +24,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Install Dependencies
+            - name: Install Dependencies
         run: npm ci
+      - name: First build (downloads Quartz plugins)
+        run: npx quartz build
       - name: Patch Quartz plugins
-        run: node patch-quartz.mjs
+        run: |
+          node patch-quartz.mjs
+          rm -rf quartz/.quartz-cache
       - name: Build Quartz
         run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
