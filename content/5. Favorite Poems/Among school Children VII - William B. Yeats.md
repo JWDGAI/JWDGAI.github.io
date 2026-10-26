@@ -1,7 +1,6 @@
 ---
 date: 2026-10-01T02:42
 ---
-
 Labour is blossoming or dancing where
 The body is not bruised to pleasure soul,
 Nor beauty born out of its own despair,
@@ -11,4 +10,5 @@ Are you the leaf, the blossom or the bole?
 O body swayed to music, O brightening glance,
 How can we know the dancer from the dance?
 
-![[Among school Children VII - William B. Yeats-1790895410518.jpeg|571]]
+![[Among school Children VII - William B. Yeats-1790895410518.jpeg|371]]
+
